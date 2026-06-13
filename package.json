@@ -1,0 +1,18 @@
+{
+  "name": "asya-v1",
+  "version": "1.0.0",
+  "description": "Asya Bot - حماية جروبات متطورة",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "pino": "^8.19.0",
+    "wa-sticker-formatter": "^2.2.0"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "type": "module"
+}
